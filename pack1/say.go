@@ -1,4 +1,4 @@
-package gomodone
+package pack1
 
 import "fmt"
 
