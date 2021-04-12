@@ -1,3 +1,3 @@
-module github.com/hhsiy/gomodone
+module github.com/fyatt/gomodone
 
 go 1.15
